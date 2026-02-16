@@ -17,7 +17,7 @@
   "dependencies": {
     "@riophae/vue-treeselect": "0.4.0",
     "@tinymce/tinymce-vue": "^3.2.8",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "core-js": "^2.6.5",
     "echarts": "^5.0.1",
     "element-resize-detector": "^1.2.3",
@@ -47,7 +47,7 @@
     "vue-uuid": "2.0.2",
     "vuedraggable": "^2.24.3",
     "vuex": "3.1.0",
-    "webpack": "^4.46.0",
+    "webpack": "^5.98.0",
     "xlsx": "^0.17.0"
   },
   "devDependencies": {
